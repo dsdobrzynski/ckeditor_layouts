@@ -1,0 +1,7 @@
+name: CKEditor Layouts
+type: module
+description: CKEditor Content Templates plugin for Drupal 8
+core: 8.x
+package: CKEditor
+dependencies:
+  - editor

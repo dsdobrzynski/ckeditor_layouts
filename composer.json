@@ -1,0 +1,14 @@
+{
+  "name": "drupal/ckeditor_layouts",
+  "type": "drupal-module",
+  "description": "CKEditor Content Templates plugin for Drupal 8",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/ckeditor_layouts",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/ckeditor_layouts",
+    "source": "http://cgit.drupalcode.org/ckeditor_layouts"
+  },
+  "require": { }
+}
